@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with ML supervised algorithms
 - 💬 Ask me about soft skills
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: email : nihagalioffice@gmail.com
+- 😄 Pronouns: SHe/Her/Hers
+- ⚡ Fun fact: My life My code :P
+
